@@ -26,7 +26,7 @@ start:
 		cout << "=======================================you are creating an acount==================================== " << endl << endl;
 		cout << "enter name : " << endl;
 		cin >> nam;
-		cout << "enter your password : " << endl;
+		cout << "enter your password here : " << endl;
 		cin >> pass;
 		/*const int l = pass.length();
 
