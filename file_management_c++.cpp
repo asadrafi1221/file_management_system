@@ -24,7 +24,7 @@ start:
 		cout << "plz enter your data correctyle : " << endl << endl;
 
 		cout << "=======================================you are creating an acount==================================== " << endl << endl;
-		cout << "enter name : " << endl;
+		cout << "enter name here : " << endl;
 		cin >> nam;
 		cout << "enter your password here : " << endl;
 		cin >> pass;
